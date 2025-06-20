@@ -1,0 +1,20 @@
+.about-section {
+  min-height: 82vh;
+  background-color: #f9f9f9;
+  padding: 20px 10px;
+}
+
+.about-section h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.about-section p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.content
+{
+  text-align: justify;
+}
